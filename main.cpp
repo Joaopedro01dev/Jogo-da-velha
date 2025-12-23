@@ -115,7 +115,7 @@ int main(){
 
         if(jogadas == 9){
             mostrarVelha();
-            cout << "Empate! Nenhum jogador venceu!" << endl;
+            cout << endl << "Empate! Nenhum jogador venceu!" << endl;
 
             if(confirmar()) reiniar();
             else break;
