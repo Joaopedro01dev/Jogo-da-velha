@@ -121,6 +121,6 @@ int main(){
             else break;
         }
     }
-    cout << "Obrigado por jogar o jodo da velha, ate a proxima!";
+    cout << "Obrigado por jogar o jogo da velha, ate a proxima!";
     return 0;
 }
